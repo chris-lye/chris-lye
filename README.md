@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Some of the projects I am proud to have been a part of:  
 <a href="https://devpost.com/software/gardens-by-the-hdbay">Gardens by the HDBay</a>  
-<a href="https://github.com/rphly/hive">HIVE</a>  
+<a href="https://github.com/rphly/hive">Hive</a>  
 <a href="https://istd.sutd.edu.sg/term4-design-exhibition/50002/raiders-of-hanoi">Raiders of Hanoi</a>  
 
 
